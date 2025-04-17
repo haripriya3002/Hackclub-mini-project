@@ -7,5 +7,3 @@ This repository includes three cool features:
 - **Virtual Piano**
 
 All built from scratch for learning and exploring core front-end concepts!
-
----
